@@ -5,7 +5,7 @@ author = "anodium"
 forum = 0
 +++
 
-Citra's website has a nice little [screenshot gallery](/screenshots/) that
+Citra's website has a nice little [screenshot gallery](https://citra-emu.org/screenshots/) that
 showcases the very best that Citra can be. And those very same screenshots
 are displayed to everyone that navigates to our front page, via the jumbotron.
 Unfortunately, that gallery hasn't been updated in ages, because we're mainly
@@ -35,18 +35,18 @@ hearted screenshots. (Limit 1 prize per user.)
 
 Entries will be accepted until `$(ENTRY SUBMISSION DUE)`, and the category will
 then be locked to allow time for people to vote. **NOTE:** You do *not* have to
-submit screenshots yourself to vote! You only need a Citra forums account, but
-your votes will be **null and void** if you make alternate or duplicate accounts!
+submit screenshots yourself to vote! You only need a Citra account, but your
+votes will be **null and void** if you make alternate or duplicate accounts!
 
 The three winners will be announced at `$(ENTRY SUBMISSION DUE)` right here on
 the blog, and will be messaged privately by a forum moderator to claim their
-reward. Speaking of prizes, each of the three winners will get:
+reward. Speaking of prizes, for each placing:
 
-3. A faceplate for their New Nintendo 3DS
+ * The third place winner will recieve a faceplate for their New Nintendo 3DS.
 
-2. A hardcover copy of *Hyrule Historia*
+ * The *second* place winner will recieve a hardcover copy of *Hyrule Historia*!
 
-1. A **brand-new Nintendo New 3DS**!
+ * And, the **first** place winner will recieve a **brand-new Nintendo New 3DS**!
 
 We're extremely excited to see what you all have in store, so get out there and
 submit those screenshots!
