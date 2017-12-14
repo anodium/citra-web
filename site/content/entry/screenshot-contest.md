@@ -42,11 +42,11 @@ The three winners will be announced at `$(ENTRY SUBMISSION DUE)` right here on
 the blog, and will be messaged privately by a forum moderator to claim their
 reward. Speaking of prizes, for each placing:
 
- * The third place winner will recieve a faceplate for their New Nintendo 3DS.
+ * The third place winner will receive a faceplate for their New Nintendo 3DS.
 
- * The *second* place winner will recieve a hardcover copy of *Hyrule Historia*!
+ * The *second* place winner will receive a hardcover copy of *Hyrule Historia*!
 
- * And, the **first** place winner will recieve a **brand-new Nintendo New 3DS**!
+ * And, the **first** place winner will receive a **brand-new Nintendo New 3DS**!
 
 We're extremely excited to see what you all have in store, so get out there and
 submit those screenshots!
